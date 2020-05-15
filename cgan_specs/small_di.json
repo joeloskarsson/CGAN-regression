@@ -1,0 +1,16 @@
+{
+"gen_network": {
+    "type": "double_track",
+    "activation": "leaky_relu",
+    "hidden_layers": [16, 16],
+    "x_layers": [16, 16],
+    "other_layers": [16]
+},
+"disc_network": {
+    "type": "double_track",
+    "activation": "leaky_relu",
+    "hidden_layers": [16, 16],
+    "x_layers": [16, 16],
+    "other_layers": [16, 16]
+}
+}

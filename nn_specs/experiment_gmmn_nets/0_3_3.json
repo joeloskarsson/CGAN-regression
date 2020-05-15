@@ -1,0 +1,7 @@
+{
+    "type": "double_track",
+    "activation": "relu",
+    "hidden_layers": [64, 64, 64],
+    "x_layers": [],
+    "other_layers": [64, 64, 64]
+}

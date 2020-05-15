@@ -1,0 +1,5 @@
+{
+    "type": "ff",
+    "activation": "relu",
+    "hidden_layers": [64, 64, 64, 64, 64, 64]
+}

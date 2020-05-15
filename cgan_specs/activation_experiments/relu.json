@@ -1,0 +1,16 @@
+{
+"gen_network": {
+    "type": "double_track",
+    "activation": "relu",
+    "hidden_layers": [128, 128, 64, 64, 64],
+    "x_layers": [64, 64, 64],
+    "other_layers": [64, 64, 64]
+},
+"disc_network": {
+    "type": "double_track",
+    "activation": "relu",
+    "hidden_layers": [128, 128, 64, 64, 64],
+    "x_layers": [64, 64, 64],
+    "other_layers": [64, 64, 64]
+}
+}
