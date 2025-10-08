@@ -2,7 +2,7 @@
 This repository contains code and datasets from the master thesis: [Probabilistic Regression using Conditional Generative Adversarial Networks](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-166637).
 The project includes Conditional GANs (CGANs) used for low-dimensional probabilistic regression problems.
 
-Author: [Joel Oskarsson](mailto:joel.oskarsson@liu.se), Linköping University
+Author: Joel Oskarsson, Linköping University
 
 <p align="middle">
   <img src="images/generator.png" height="220" />
